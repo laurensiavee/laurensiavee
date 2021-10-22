@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**laurensiavee/laurensiavee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Laurensia, third year of Computer Science Major🔭, Specialize in ✨Intelligence System/ Artificial Intelligence✨.
 
-Here are some ideas to get you started:
+I am currently interested in Machine Learning and Data Science. I mainly used Python, and learning R. I also interested in Machine Learning Model Deployment. Thus, I am also currently learning Web Development (Flask).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other than that, as a Computer Science student, i'm also learning other field of programming as well. Here are some tool and languages I'm comfortable with:
+- HTML/CSS/JavaScript
+- Python
+- R
+- Java
+- C/C++
+- C#
+
+⚡ To see my works, please check my project here ---> 
