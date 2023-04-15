@@ -1,10 +1,12 @@
-### Hello! 👋
+## Hello! 👋
 
-I am Laurensia, third year of Computer Science Major🔭, Specialize in ✨Intelligence System/ Artificial Intelligence✨.
+I'm Laurensia, computer science major interested in Artificial Intelligence and Data Science✨.
 
-I am currently interested in Machine Learning and Data Science. I mainly used Python, and learning R. I am also interested in Machine Learning Model Deployment and currently learning Web Development (Flask).
+I'm best at python and learning R. I am also currently learning Web Development with Flask. Other tools/langs i enjoy such as:
+HTML/CSS/JavaScript, Python, R, C/C++, C#, SQL, Java
 
-Other than that, as a Computer Science student, I am also learning other field of programming as well. Here are some tool and languages I'm comfortable with:
-HTML/CSS/JavaScript, Python, R, Java, C/C++, C#
+⚡ Feel free to see my works! check my project here ---> [portfolio](https://github.com/laurensiavee/portfolio)
 
-⚡ To see my works, please check my project here ---> [portfolio](https://github.com/laurensiavee/portfolio)
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurensiavee&langs_count=9&layout=compact&theme=tokyonight&count_private=true)](https://github.com/laurensiavee/github-readme-stats)
