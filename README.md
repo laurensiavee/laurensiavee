@@ -9,9 +9,9 @@ I have experience as Fullstack developer for more than one year, I am also learn
 
 ⚡ Feel free to see my works! check my project here ---> [portfolio](https://github.com/laurensiavee/portfolio)
 
-</br>
 or check my website here ---> [website](https://laurensiavee.github.io)
 
+</br>
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurensiavee&langs_count=9&layout=compact&theme=tokyonight&count_private=true)](https://github.com/laurensiavee/github-readme-stats)
