@@ -1,11 +1,16 @@
 ## Hello! 👋
 
-I'm Laurensia, computer science major interested in Artificial Intelligence and Data Science✨.
 
-I'm best at python and learning R. I am also currently learning Web Development with Flask. Other tools/langs i enjoy such as:
-HTML/CSS/JavaScript, Python, R, C/C++, C#, SQL, Java
+I'm Laurensia, computer science fresh graduate focused on in Artificial Intelligence✨.
+
+I'm best at python and learning R. I have also tried machine learning model deployment with Flask. 
+
+I have experience as Fullstack developer for more than one year, I am also learning web development with React JS and Tailwind CSS. Other tools/languages i enjoy such as: HTML, CSS, JavaScript, React, Tailwind CSS, Python, R, Java, C, C++, C#, Git, SQL, Laravel, PHP, Flask, .NET, SQL Server.
 
 ⚡ Feel free to see my works! check my project here ---> [portfolio](https://github.com/laurensiavee/portfolio)
+
+</br>
+or check my website here ---> [website](https://laurensiavee.github.io)
 
 </br>
 
