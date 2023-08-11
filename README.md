@@ -15,3 +15,11 @@ or check my website here ---> [website](https://laurensiavee.github.io)
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurensiavee&langs_count=9&layout=compact&theme=tokyonight&count_private=true)](https://github.com/laurensiavee/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=laurensiavee&langs_count=9&layout=compact&theme=tokyonight&count_private=true)](https://github.com/laurensiavee/github-readme-stats)
+
+<details>
+  <summary>:zap: Leetcode</summary>
+  ![](https://leetcard.jacoblin.cool/daytea?border=0&radius=20&ext=activity)
+</details>
+
+
