@@ -19,7 +19,5 @@ or check my website here ---> [website](https://laurensiavee.github.io)
 
 <details>
     <summary>LeetCode Stats</summary>
-    ![](https://leetcard.jacoblin.cool/daytea?border=0&radius=20&ext=activity)
-    test
     <img src="https://leetcard.jacoblin.cool/daytea?border=0&radius=20&ext=activity" >
 </details>
