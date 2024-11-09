@@ -21,3 +21,5 @@ or check my website here ---> [website](https://laurensiavee.github.io)
     <summary>LeetCode Stats</summary>
     <img src="https://leetcard.jacoblin.cool/daytea?border=0&radius=20&ext=activity" >
 </details>
+
+.
